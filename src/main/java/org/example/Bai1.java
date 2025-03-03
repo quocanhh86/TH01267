@@ -15,9 +15,5 @@ public class Bai1 {
         return tong;
     }
 
-    public static void main(String[] args) {
-        Bai1 bai1 = new Bai1();
-        bai1.tinhTong();
-        System.out.println(bai1.tinhTong());
-    }
+
 }
